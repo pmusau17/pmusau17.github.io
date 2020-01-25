@@ -1,4 +1,4 @@
 ---
 layout: home
-image: pages/images/pat1.jpg
+image: pages/images/Pat1.jpg
 ---
