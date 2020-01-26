@@ -1,5 +1,5 @@
 ---
 layout: home
-image: pages/images/Pat1.jpg
+image: pages/images/home.jpg
 title: Projects
 ---
