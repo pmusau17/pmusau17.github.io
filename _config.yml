@@ -35,7 +35,7 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
-copyright: Patrick Musau
+copyright: © Copyright Patrick Musau 2020
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
