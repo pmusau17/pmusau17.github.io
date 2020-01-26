@@ -18,7 +18,7 @@ title: Robotics | Formal Methods | AI
 email: patrick.musau@vanderbilt.edu
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://pmusau17.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Patrick Musau 
   twitter: pmusau13
@@ -35,6 +35,7 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+copyright: Patrick Musau
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
@@ -44,7 +45,7 @@ plugins: # previsously gems
   - jekyll-sitemap
   - jekyll-paginate
 feed:
-  path: atom.xml
+  path: 
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
