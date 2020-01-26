@@ -3,12 +3,9 @@ title: "About"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+Hello! 
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+My name is Patrick Musau and I'm a third year Electrical Engineering Ph.D. Student at the Institute of Software Integrated Systems at Vanderbilt University. My research is focused on problems related to ensuring that autonomous cyber-physical systems are safe and function as intended.  Specifically its applying these techniques to a 1/10 scale autonomous remote controlled as part of the [F1/10](http://f1tenth.org/) Autonomous racing competition, as well as the NSF Student [CPS Challenge](https://cps-vo.org/group/CPSchallenge).
+
+Outside of work I'm the captain of the Nashville Rugby Football club [NRFC](https://nashvillerugby.com/) and regularly compete in the D2 Club Division. I'm also actively involved in Vanderbilt University's Entrepneurial ecosystem in an effort to translate promising ideas from the laboratory to the marketplace.  
