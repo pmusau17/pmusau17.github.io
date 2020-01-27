@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+entries_layout: grid
 ---
 
 
