@@ -44,19 +44,6 @@
       ]
     }
   ],
-  /*"volunteer": [
-    {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
-    }
-  ],*/
   "education": [
     {
       "institution": "Vanderbilt University",
@@ -127,15 +114,5 @@
         "Verification"
       ]  
     }
-  ],
-  /*"references": [
-    {
-      "name": "Taylor Johnson",
-      "reference": ""
-    },
-    {
-      "name": "Hoang-Dung Tran",
-      "reference": ""
-    }
-  ]*/
+  ]
 }
