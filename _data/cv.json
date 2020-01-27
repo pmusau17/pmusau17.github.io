@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "volunteer": [
+  /*"volunteer": [
     {
       "organization": "Steve's Meat Market",
       "position": "Assistant",
@@ -56,7 +56,7 @@
         "Awarded a 'Helium Biscuit'"
       ]
     }
-  ],
+  ],*/
   "education": [
     {
       "institution": "Vanderbilt University",
@@ -74,19 +74,19 @@
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "Wond’ry Prelaunch Entrepreneur Program - Microgrant Winner",
+      "date": "2019-11-13",
+      "awarder": "The Wond'ry",
+      "summary": "$2300 Towards Customer Discovery"
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks",
+      "publisher": "IEEE Press",
+      "releaseDate": "2019-08-22",
+      "website": "https://ieeexplore.ieee.org/document/8807491",
+      "summary": "Presents a reachability analysis method for feed-forward neural networks (FNN) that employ rectified linear units (ReLUs) as activation functions."
     }
   ],
   "skills": [
@@ -98,11 +98,10 @@
       ]
     },
     {
-      "name": "Bruschotti",
+      "name": "Frameworks",
       "level": "Satisfactory",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "NumPy", "Pandas", "OpenCV", "Tensorflow", "Keras", "ONNX"
       ]
     }
   ],
@@ -122,17 +121,21 @@
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "AI Safety",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+        "Formal Methods",
+        "Verification"
+      ]  
     }
   ],
-  "references": [
+  /*"references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Taylor Johnson",
+      "reference": ""
+    },
+    {
+      "name": "Hoang-Dung Tran",
+      "reference": ""
     }
-  ]
+  ]*/
 }
