@@ -113,6 +113,14 @@
         "Formal Methods",
         "Verification"
       ]  
+    },
+    {
+      "name": "Cyber-Physical Systems",
+      "keywords": [
+        "Robotics",
+        "Intelligent Control",
+        "Distributed Computing"
+      ]  
     }
   ]
 }
