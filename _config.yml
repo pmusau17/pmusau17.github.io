@@ -82,7 +82,6 @@ defaults:
     values:
       layout: post
       read_time: true
-      title: ""
   # _recipes
   - scope:
       path: "_recipes"
