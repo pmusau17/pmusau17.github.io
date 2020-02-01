@@ -14,7 +14,7 @@ entries_layout: grid
 - Funded by the Defense Advanced Research Projects Agency (DARPA)
 - Framework’s used: Robotic Operating System, Python, MATLAB, [NNV](github.com/verivital/nnv)
 
-## F1Tenth Autonomous Racing Competition
+## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
 - Built a 1/10 scale autonomous vehicle testbed equipped with a LIDAR, stereo camera, and inertial sensors
 - The testbed’s sensors mimic full scale solutions and allow us to pursue research in perception, planning, control, and networking
@@ -23,7 +23,7 @@ entries_layout: grid
 - Development timeframe: March 2019-present
 - Languages and Framework’s used: Robotic Operating System, Python, C++
 
-## NSF CPS Challenge
+## [NSF CPS Challenge](https://github.com/verivital/VandyCPS)
 
 - Goal of this challenge is to use a quadrotor aircraft with downward facing camera, and other sensors, to scan an area for a lost aircraft, and recover it safely back to base
 - Platform used: the Intel® Aero Ready to Fly Drone
@@ -31,7 +31,7 @@ entries_layout: grid
 - Development timeframe: 2017-Present
 - Languages and Framework’s used: Robotic Operating System, Python, OpenCV, C++
 
-### NNVMT
+### [NNVMT](https://github.com/verivital/nnvmt)
 
 - Purpose of this tool was to address the lack of neural network model standardization among the various verification research software artifacts
 - Tool allows for interchange between neural network verification tools and related software, such as ONNX, PyTorch, Keras, Tensorflow
