@@ -1,28 +1,18 @@
 ---
-title: "Post: Video (YouTube)"
+title: "NSF CPS Challenge 2019"
 categories:
-  - Post Formats
+  - UAV
 tags:
-  - Post Formats
-last_modified_at: 2017-03-23T15:33:37-04:00
+  - UAV
+last_modified_at: 2020-02-01
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://youtu.be/CGsuz2FS68g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This post tests YouTube video embeds.
+# Ready Set Race
 
-Simply wrap embeds with a `<div>` element and the appropriate classes:
+I have been a participant in the [F1Tenth international racing competition](http://f1tenth.org/) for the last two years and competed at [CPS-IOT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/index.html) and at Columbia University. The crux of this [work](https://github.com/pmusau17/Platooning-F1Tenth) has involved developing driving algorithms using the Robotics Operating System (ROS) and Gazebo during simulation, and transferring these algorithms onto a 1/10 scale traxxas rally car equipped with a standard suite of sensors. 
 
-```html
-<!-- 16:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="..."></iframe>
-</div>
 
-<!-- 4:3 aspect ratio -->
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="..."></iframe>
-</div>
-```
