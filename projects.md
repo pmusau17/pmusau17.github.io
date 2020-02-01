@@ -6,7 +6,7 @@ collection: projects
 entries_layout: grid
 ---
 
-## DARPA Assured Autonomy
+## [DARPA Assured Autonomy](https://www.darpa.mil/news-events/2020-01-29)
 
 - Goal of the Assured Autonomy program is to create technology for continual assurance of Learning-Enabled, Cyber Physical Systems
 -  Utilizing formal methods and other methods the project seeks to advance the ways ML/AI systems can learn and evolve to better manage variations in the environment
