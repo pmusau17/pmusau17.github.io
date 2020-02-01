@@ -1,12 +1,12 @@
 ---
-title: "Post: Quote"
+title: "The Power of the Word:"
 categories:
-  - Post Formats
+  - quote
 tags:
-  - Post Formats
+  - 
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> If you only struggle for that which may be realized during your lifetime, then your viewpoint is already impoverished.
 > 
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://www.youtube.com/watch?v=8xRq4wx5wnE&t=3587s">Ta-Nehisi Coates</a></cite>
