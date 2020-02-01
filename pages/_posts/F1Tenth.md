@@ -8,7 +8,7 @@ last_modified_at: 2020-02-01
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube.com/watch?v=fevOWV0qbu8&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/fevOWV0qbu8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 # F1/10 Autonomous Racing Competition
