@@ -76,12 +76,12 @@ exclude:
 # Front Matter Defaults
 defaults:
   # _posts
-  - scope:
-      path: "pages/_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
+  # - scope:
+  #     path: "pages/_posts"
+  #     type: posts
+  #   values:
+  #     layout: post
+  #     read_time: true
   # _recipes
   - scope:
       path: "pages/_recipes"
