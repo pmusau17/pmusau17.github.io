@@ -6,6 +6,7 @@ collection: projects
 entries_layout: grid
 ---
 
+![Patrick](/pages/images/projects.jpg "Projects Image")
 ## [DARPA Assured Autonomy](https://www.darpa.mil/news-events/2020-01-29)
 
 - Goal of the Assured Autonomy program is to create technology for continual assurance of Learning-Enabled, Cyber Physical Systems
