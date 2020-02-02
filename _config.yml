@@ -16,13 +16,13 @@
 lang: en-US
 title: Robotics | Formal Methods | AI
 email: patrick.musau@vanderbilt.edu
+linkedin: musaup
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://pmusau17.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Patrick Musau 
   twitter: pmusau13
-  linkedin: musaup
   picture: /pages/images/Mary_Solo.jpg
 twitter_username: pmusau13
 github_username: pmusau17
