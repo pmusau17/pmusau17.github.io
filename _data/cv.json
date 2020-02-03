@@ -40,21 +40,30 @@
         },
       {
           "company": "Furman University",
-          "summary": "Under the supervision of Dr. Berhane Temelso and Dr. George Shields and Furman University's Chemistry Department I created a web application that stored highly detailed quantum mechanical calculations of molecular cluster energies and geometry calculations. The system was modeled after The Benchmark Energy and Geometry Database (begdb.com). The system we built sought to  promote the efficient storing and access of molecular cluster data and allow computational chemists to contribute benchmark data and promote collaboration. The tools that we used to create the system include HTML, SQL, PHP, AJAX, JavaScript, Bootstrap, JQuery, and JSmol.",
+          "summary": "Under the supervision of Dr. Berhane Temelso and Dr. George Shields and Furman University's Chemistry Department I created a web application that stored highly detailed quantum mechanical calculations of molecular cluster energies and geometry calculations.",
+          "website": "http://molecularclusters.xyz/",
+          "highlights": [
+            "The system was modeled after The Benchmark Energy and Geometry Database (begdb.com).",
+            "Designed to promote the efficient storing and access of molecular cluster data and allow computational chemists to contribute benchmark data and promote collaboration.",
+            "Built using HTML, SQL, PHP, AJAX, JavaScript, Bootstrap, JQuery, and JSmol."
+          ],
           "position": "Furman University Chemistry Department Research Fellow",
           "startDate": "2017-05-01",
           "endDate": "2017-05-01"
       },
       {
           "company": "Furman University",
-          "summary": "Under the supervision of Dr. Andrea Tartaro, nu2663tDesigned a web-based dietary self-monitoring application modeled after the United States Department of Agricultureu2019s MyPlate food recommendations and guidelines for use in a long-term study to analyze the effectiveness and usability of such a system in facilitating weight loss. nu2663tCreated a PHP based user authentication system based on secure hashing algorithms and security certificates provided by Furman Universityu2019s IT departmentnu2663tCreated user friendly dietary tracking pages for users in the control and focus groupsnu2663tWrote PHP scripts for the efficient storing and retrieval of information in the SMI database nDesigned webpages to give study participants feedback on their dietary meal compositions using JavaScript, JQuery, Bootstrap, CanvasJS, and HighCharts",
+          "summary": "Under the supervision of Dr. Andrea Tartaro, Designed a web-based dietary self-monitoring application modeled after the United States Department of Agriculture's 2019 MyPlate food recommendations and guidelines for use in a long-term study to analyze the effectiveness and usability of such a system in facilitating weight loss.",
+          "highlights": ["Created a PHP based user authentication system based on secure hashing algorithms and security certificates provided by Furman University's IT department.",
+          "Created user friendly dietary tracking pages for users in the control and focus groups.",
+          "Wrote PHP scripts for the efficient storing and retrieval of information in the SMI database nDesigned webpages to give study participants feedback on their dietary meal compositions using JavaScript, JQuery, Bootstrap, CanvasJS, and HighCharts"],
           "position": "Undergraduate Research Fellow",
           "startDate": "2016-05-01",
           "endDate": "2016-12-01"
       },
       {
           "company": "Furman University",
-          "summary": "Under the supervision of Furman Universityu2019s Housing and Residence life department, my role was to serve as a role model for new students and mentor them in areas, which encouraged and supported academic success. Additionally, it was my responsibility to serve as a liaison between students and institutional academic resources.",
+          "summary": "Under the supervision of Furman University's Housing and Residence life department, my role was to serve as a role model for new students and mentor them in areas, which encouraged and supported academic success. Additionally, it was my responsibility to serve as a liaison between students and institutional academic resources.",
           "position": "Freshman Advisor",
           "startDate": "2014-08-01",
           "endDate": "2016-08-01"
@@ -105,7 +114,8 @@
       {
           "title": "Member of Quaternion Club",
           "awarder": "Quaternion Club",
-          "summary": "The Quaternion Club is Furman University's elite men's honor society founded in 1903  that selects  4 men from the junior class and 4 from the senior class at Furman University each year who have exemplified  outstanding leadership, scholarship, service and moral integrity in their undergraduate career.https://news.furman.edu/2017/03/27/an-honor-of-the-highest-accord",
+          "website":"https://news.furman.edu/2017/03/27/an-honor-of-the-highest-accord",
+          "summary": "The Quaternion Club is Furman University's elite men's honor society founded in 1903  that selects  4 men from the junior class and 4 from the senior class at Furman University each year who have exemplified  outstanding leadership, scholarship, service and moral integrity in their undergraduate career.",
           "date": "2017-03-01"
       },
       {
@@ -126,7 +136,6 @@
       },
       {
           "title": "Goodwill Scholars Scholarship",
-          "awarder": "Furman University",
           "date": "2013-07-01"
       }
   ],
