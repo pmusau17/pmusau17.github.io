@@ -1,7 +1,7 @@
 {
   "basics": {
       "name": "Patrick Musau",
-      "label": "Third year PhD Student working on problems related to the safety and reliability of systems that make use of Artificial Intelligence (AI) and Machine Learning (ML). Drawing on techniques and tools from formal methods, the goal of my research is to develop techniques that provide rigorous guarantees that that these systems are trustworthy. I'm also interested in the commercialization of these technologies. In order to maximize the benefit of these methods, I'm exploring translating these ideas from the lab to the marketplace by participating in entrepreneurial programs at Vanderbilt.",
+      "label": "Third year PhD Student working on problems related to the safety and reliability of systems that make use of Artificial Intelligence (AI) and Machine Learning (ML)",
       "location": {
           "address": "1025 16th Ave S, Suite 102",
           "postalCode": "TN 37212",
