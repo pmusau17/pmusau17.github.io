@@ -9,9 +9,12 @@ entries_layout: grid
 ![Patrick](/pages/images/projects2.jpg "Projects Image")
 ## [DARPA Assured Autonomy](https://www.darpa.mil/news-events/2020-01-29)
 
-- Goal of the Assured Autonomy program is to create technology for continual assurance of Learning-Enabled, Cyber Physical Systems
--  Utilizing formal methods and other methods the project seeks to advance the ways ML/AI systems can learn and evolve to better manage variations in the environment
-- Our focus has been on the autonomous vehicle space, although the technology and techniques being designed are to be transferable to other autonomous systems with minimal modifications
+**Project Summary*:* The Goal of the Assured Autonomy program is to create technology for the continual assurance of Learning-Enabled, Cyber Physical Systems. Utilizing formal methods and other fault tolerance techniques, the project seeks to advance the ways Machine Learning and AI systems can learn and evolve to better manage variations in their environments. Our focus has been on the autonomous vehicle space. However the technology and techniques being investigated will be designed to be transferable to other autonomous systems with minimal modifications.
+
+**Specifics:**
+- Trained a reinformcement learning agent to autonomously control and unmanned underwater vehicle to avoid obstacles in a pipe following scenario
+- Performed the data collection, sanitization, that was used to identify a mathematical model of the underwater vehicle 
+- This model was then used to reason about the safety the system using [reachable set analysis](https://ieeexplore.ieee.org/abstract/document/8318388) 
 - Funded by the Defense Advanced Research Projects Agency (DARPA)
 - Framework’s used: Robotic Operating System, Python, MATLAB, [NNV](github.com/verivital/nnv)
 
