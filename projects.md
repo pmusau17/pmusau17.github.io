@@ -5,18 +5,7 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 ---
-
 ![Patrick](/pages/images/projects2.jpg "Projects Image")
-## [DARPA Assured Autonomy](https://www.darpa.mil/news-events/2020-01-29)
-
-**Project Summary:** The Goal of the Assured Autonomy program is to create technology for the continual assurance of Learning-Enabled, Cyber Physical Systems. Utilizing formal methods and other fault tolerance techniques, the project seeks to advance the ways Machine Learning and AI systems can learn and evolve to better manage variations in their environments. Our focus has been on the autonomous vehicle space. However the technology and techniques being investigated will be designed to be transferable to other autonomous systems with minimal modifications.
-
-**Specifics:**
-- Trained a reinformcement learning agent to autonomously control an unmanned underwater vehicle to avoid obstacles in a pipe following scenario
-- Performed the data collection, sanitization, that was used to identify a mathematical model of the underwater vehicle.
-- The model was then used to reason about the safety of the system using [reachable set analysis](https://ieeexplore.ieee.org/abstract/document/8318388) .
-- Funded by the Defense Advanced Research Projects Agency (DARPA).
-- Framework’s used: Robotic Operating System, Python, MATLAB, [NNV](github.com/verivital/nnv).
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
@@ -33,6 +22,7 @@ entries_layout: grid
 - Languages and Framework’s used: Robotic Operating System, Python, C++.
 
 <iframe src="https://giphy.com/embed/cMDs3hQe0fhcKqwOyu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cMDs3hQe0fhcKqwOyu"></a></p>
+
 
 ## [NSF CPS Challenge](https://github.com/verivital/VandyCPS)
 
@@ -59,6 +49,17 @@ entries_layout: grid
 - Development timeframe: 2018-present
 - Building the tool with [Diego Manzanas Lopez](https://dieman95.github.io/)
 - Written in Python 3
+
+## [DARPA Assured Autonomy](https://www.darpa.mil/news-events/2020-01-29)
+
+**Project Summary:** The Goal of the Assured Autonomy program is to create technology for the continual assurance of Learning-Enabled, Cyber Physical Systems. Utilizing formal methods and other fault tolerance techniques, the project seeks to advance the ways Machine Learning and AI systems can learn and evolve to better manage variations in their environments. Our focus has been on the autonomous vehicle space. However the technology and techniques being investigated will be designed to be transferable to other autonomous systems with minimal modifications.
+
+**Specifics:**
+- Trained a reinformcement learning agent to autonomously control an unmanned underwater vehicle to avoid obstacles in a pipe following scenario
+- Performed the data collection, sanitization, that was used to identify a mathematical model of the underwater vehicle.
+- The model was then used to reason about the safety of the system using [reachable set analysis](https://ieeexplore.ieee.org/abstract/document/8318388) .
+- Funded by the Defense Advanced Research Projects Agency (DARPA).
+- Framework’s used: Robotic Operating System, Python, MATLAB, [NNV](github.com/verivital/nnv).
 
 
 > "If I have seen further than others, it is because I was standing on the shoulders of giants."
