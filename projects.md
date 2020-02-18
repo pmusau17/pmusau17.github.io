@@ -7,7 +7,7 @@ entries_layout: grid
 ---
 
 
-<img src="/pages/images/projects2.jpg " class="align-center" alt="Entrepneurship Conference" title="Entrepneurship Conference" width="400" height="267" />
+<!-- <img src="/pages/images/projects2.jpg " class="align-center" alt="Entrepneurship Conference" title="Entrepneurship Conference" width="400" height="267" /> -->
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
