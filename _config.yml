@@ -86,8 +86,8 @@ defaults:
       read_time: true
   # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_musings"
+      type: musings
     values:
       layout: post
       read_time: true
