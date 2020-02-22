@@ -1,8 +1,8 @@
 ---
 title: Musings and Interests
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /musings/
+collection: musings
 entries_layout: grid
 ---
 
