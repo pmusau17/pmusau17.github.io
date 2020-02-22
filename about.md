@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: about
+classes: wide
 entries_layout: grid
 ---
 
