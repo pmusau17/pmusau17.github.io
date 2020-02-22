@@ -1,5 +1,5 @@
 ---
-title: Musings and Interests
+title: Musings
 layout: collection
 permalink: /musings/
 collection: musings
