@@ -6,4 +6,4 @@ collection: musings
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_recipes`.
+I'm working on it :)
