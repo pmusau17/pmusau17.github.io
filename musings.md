@@ -13,5 +13,6 @@ entries_layout: grid
 
 # Articles that keep me inspired: 
 
-<blockquote class="embedly-card"><h4><a href="https://www.gq.com/story/burna-boy-african-king-profile">Burna Boy Is Trying to Wake Up Africa</a></h4><p>We're backstage just moments before Burna Boy makes his Tonight Show debut, and Africa's biggest superstar is tucked away in his dressing room, surrounded by an entourage of more than a dozen people.</p></blockquote>
+<blockquote class="embedly-card align-left"><h4>
+<a href="https://www.gq.com/story/burna-boy-african-king-profile">Burna Boy Is Trying to Wake Up Africa</a></h4><p>We're backstage just moments before Burna Boy makes his Tonight Show debut, and Africa's biggest superstar is tucked away in his dressing room, surrounded by an entourage of more than a dozen people.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
