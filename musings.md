@@ -11,7 +11,7 @@ entries_layout: grid
 > <cite><a href="https://youtu.be/spll56K7ZNg">Kobe Bryant</a></cite>
 
 
-# Articles that keep me inspired: 
+### Articles that keep me inspired: 
 
 
 <div class="align-left">
@@ -22,3 +22,10 @@ entries_layout: grid
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2017/08/14/james-baldwin-nothing-personal-evil/">The Terror Within and the Evil Without: James Baldwin on Our Capacity for Transformation as Individuals and Nations</a></h4><p>"The self," the poet Robert Penn Warren observed in his immensely insightful meditation on the trouble with "finding yourself," "is a style of being, continually expanding in a vital process of definition, affirmation, revision, and growth, a process that is the image, we may say, of the life process of a healthy society itself."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
+
+## It's a Tuuuuuune.
+
+<div class="align-left">
+<iframe src="https://open.spotify.com/embed/playlist/7sISTvyPBUqHQ89ro4pPBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
