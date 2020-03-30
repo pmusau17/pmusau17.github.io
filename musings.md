@@ -32,6 +32,10 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
 
 <div class="align-left">
 <h3>It's a Tunnnnnne!</h3>
