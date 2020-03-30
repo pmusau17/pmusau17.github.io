@@ -37,8 +37,8 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
+<!--<div class="align-left">
 <h3>It's a Tunnnnnne!</h3>
 <iframe src="https://open.spotify.com/embed/playlist/7sISTvyPBUqHQ89ro4pPBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
+</div>-->
 
