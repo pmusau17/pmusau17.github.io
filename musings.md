@@ -33,17 +33,8 @@ entries_layout: grid
 </div>
 
 
-
-
-
-
-
-
-
 <div class="align-left">
-
-### It's a Tuuuuuune.
-
+<h3>It's a Tunnnnnne!</h3>
 <iframe src="https://open.spotify.com/embed/playlist/7sISTvyPBUqHQ89ro4pPBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
