@@ -37,6 +37,11 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://johannesburgreviewofbooks.com/2020/01/16/conversation-issue-i-know-what-lurks-in-the-bushes-and-thats-how-i-write-the-stories-jason-reynolds-talks-to-tony-eprile-about-resistance-and-the-imagination/">[Conversation Issue] 'I know what lurks in the bushes. And that's how I write the stories'-Jason Reynolds talks to Tony Eprile about resistance and the imagination</a></h4><p>As part of our January Conversation Issue, author and Editorial Advisory Panel member Tony Eprile is in conversation with Jason Reynolds, the New York Times bestselling author whose titles include All American Boys, the Track series, Long Way Down, For Everyone, Miles Morales: Spiderman and, most re</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
 <!--<div class="align-left">
 <h3>It's a Tunnnnnne!</h3>
 <iframe src="https://open.spotify.com/embed/playlist/7sISTvyPBUqHQ89ro4pPBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
