@@ -3,10 +3,6 @@ title: "An Honor of the Highest Accord"
 categories:
   - Quaternion
 tags:
-  - content
-  - embeds
-  - media
-  - twitter
 last_modified_at: 2020-05-18
 ---
 
