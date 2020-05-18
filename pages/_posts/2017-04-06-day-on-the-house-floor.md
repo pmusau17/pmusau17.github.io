@@ -6,6 +6,7 @@ tags:
   - content
   - embeds
   - media
+  - twitter
 last_modified_at: 2020-05-18
 ---
 
