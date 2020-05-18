@@ -3,7 +3,9 @@ title: "Furman Rugby has its day on the SC House Floor"
 categories:
   - Rugby
 tags:
-  - Rugby
+  - content
+  - embeds
+  - media
 last_modified_at: 2020-05-18
 ---
 
