@@ -21,6 +21,15 @@ entries_layout: grid
 </div>
 
 
+
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2019/08/09/opinion/roxane-gay-toni-morrison.html">Opinion | The Legacy of Toni Morrison</a></h4><p>There is a blossoming of black women writers who are following in her footsteps and making their own impact. By Ms. Gay is a contributing Opinion writer. Toni Morrison was unparalleled. She will always be so. A novelist, essayist, woman and sage, she was a genius of uncommon grace.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
+
+
+
 <div class="align-left">
 <blockquote class="embedly-card"><h4>
 <a href="https://www.gq.com/story/burna-boy-african-king-profile">Burna Boy Is Trying to Wake Up Africa</a></h4><p>We're backstage just moments before Burna Boy makes his Tonight Show debut, and Africa's biggest superstar is tucked away in his dressing room, surrounded by an entourage of more than a dozen people.</p></blockquote>
