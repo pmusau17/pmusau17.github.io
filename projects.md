@@ -13,11 +13,11 @@ entries_layout: grid
 ## [Runtime Assurance for Autonomous Platforms](https://github.com/pmusau17/rtreach_f1tenth)
 Motivated by the ever-increasing complexity of software needed to control autonomous systems, and the need for these systems to be certified for safety and correctness, we designed a safety monitor that relies on a [mixed face-lifting](http://www.taylortjohnson.com/research/bak2014rtss.pdf) reachability algorithm written in C. The reach-sets obtained using this method are represented as hyper-rectangles and we utilize these reachsets to check for collisons with obstacles in the vehicle's environment. Our implementation currently works in simulation but I am actively working on transfering these results onto the physical F1Tenth platform. 
 
-Development timeframe: August 2020-present.
-Languages used: Python, C++, C
+- Development timeframe: August 2020-present.
+- Languages used: Python, C++, C
 
 
-<img src="pages/images/safety_node.gif" class="align-center" alt="Safety Node" title="Safety Node" width="400"  />
+<img src="https://github.com/pmusau17/pmusau17.github.io/blob/master/pages/images/safety_node.gif" class="align-center" alt="Safety Node" title="Safety Node" width="400"  />
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
