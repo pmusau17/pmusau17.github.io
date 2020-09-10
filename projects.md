@@ -17,7 +17,7 @@ Motivated by the ever-increasing complexity of software needed to control autono
 - Languages used: Python, C++, C
 
 <p align="center">
-<iframe src="https://giphy.com/embed/j5KhmAswyV6thzxLvf" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/autonomous-j5KhmAswyV6thzxLvf">via GIPHY</a></p>
+<iframe src="https://media.giphy.com/media/j5KhmAswyV6thzxLvf/" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/autonomous-j5KhmAswyV6thzxLvf"></a></p>
 </p>
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
