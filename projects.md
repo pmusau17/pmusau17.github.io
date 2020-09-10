@@ -17,7 +17,7 @@ Development timeframe: August 2020-present.
 Languages used: Python, C++, C
 
 
-<img src="https://github.com/pmusau17/rtreach_f1tenth/blob/master/images/safety_node.gif" class="align-center" alt="Safety Node" title="Safety Node" width="400"  />
+<img src="pages/images/safety_node.gif" class="align-center" alt="Safety Node" title="Safety Node" width="400"  />
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
