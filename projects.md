@@ -16,10 +16,10 @@ Motivated by the ever-increasing complexity of software needed to control autono
 - Development timeframe: August 2020-present.
 - Languages used: Python, C++, C
 
+<p align="center">
+<blockquote class="imgur-embed-pub align-center" lang="en" data-id="a/B4LpHvD" data-context="false" ><a href="//imgur.com/a/B4LpHvD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
 
-<blockquote class="twitter-tweet tw-align-center" lang="en" data-id="a/B4LpHvD" data-context="false" ><a href="//imgur.com/a/B4LpHvD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<br/>
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
 **Project Summary:** The [F1/10 Platform](http://f1tenth.org/) is an open source 1/10 scale vehicle testbed that carries a full suite of sensors for the tasks of perception, planning, and control. The platform is equipped with a LIDAR, stereo camera, and inertial sensors. Since 2016, teams have been competing in an international racing competition that has been held in Pittsbrugh, PA, Porto, Portugal, Turin, Italy, Montreal, Canada, New York, NY. The next competition is scheduled to be held at in Berlin, Germany at the International Federation of Automatic Control ([IFAC](https://www.ifac2020.org/)) conference in July, 2020. 
