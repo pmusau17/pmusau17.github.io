@@ -16,9 +16,7 @@ Motivated by the ever-increasing complexity of software needed to control autono
 - Development timeframe: August 2020-present.
 - Languages used: Python, C++, C
 
-<p align="center">
-<blockquote class="imgur-embed-pub align-center" lang="en" data-id="a/B4LpHvD" data-context="false" ><a href="//imgur.com/a/B4LpHvD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/B4LpHvD" data-context="false" ><a href="//imgur.com/a/B4LpHvD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
