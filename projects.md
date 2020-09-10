@@ -9,6 +9,15 @@ entries_layout: grid
 
 <!-- <img src="/pages/images/projects2.jpg " class="align-center" alt="Entrepneurship Conference" title="Entrepneurship Conference" width="400" height="267" /> -->
 
+
+## [Runtime Assurance for Autonomous Platforms]
+Motivated by the ever-increasing complexity of software needed to control autonomous systems, and the need for these systems to be certified for safety and correctness, we designed a safety monitor that relies on a [mixed face-lifting](http://www.taylortjohnson.com/research/bak2014rtss.pdf) reachability algorithm written in C. The reach-sets obtained using this method are represented as hyper-rectangles and we utilize these reachsets to check for collisons with obstacles in the vehicle's environment. Our implementation currently works in simulation but I am actively working on transfering these results onto the physical F1Tenth platform. 
+
+Development timeframe: August 2020-present.
+Languages used: Python, C++, C
+
+[safety_node.gif](https://github.com/pmusau17/rtreach_f1tenth/blob/master/images/safety_node.gif)
+
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
 **Project Summary:** The [F1/10 Platform](http://f1tenth.org/) is an open source 1/10 scale vehicle testbed that carries a full suite of sensors for the tasks of perception, planning, and control. The platform is equipped with a LIDAR, stereo camera, and inertial sensors. Since 2016, teams have been competing in an international racing competition that has been held in Pittsbrugh, PA, Porto, Portugal, Turin, Italy, Montreal, Canada, New York, NY. The next competition is scheduled to be held at in Berlin, Germany at the International Federation of Automatic Control ([IFAC](https://www.ifac2020.org/)) conference in July, 2020. 
