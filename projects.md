@@ -16,8 +16,9 @@ Motivated by the ever-increasing complexity of software needed to control autono
 - Development timeframe: August 2020-present.
 - Languages used: Python, C++, C
 
-
-<img src="https://github.com/pmusau17/pmusau17.github.io/blob/master/pages/images/safety_node.gif" class="align-center" alt="Safety Node" title="Safety Node" width="400"  />
+<p align="center">
+<iframe src="https://giphy.com/embed/j5KhmAswyV6thzxLvf" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/autonomous-j5KhmAswyV6thzxLvf">via GIPHY</a></p>
+</p>
 
 ## [F1Tenth Autonomous Racing Competition](https://github.com/pmusau17/Platooning-F1Tenth)
 
