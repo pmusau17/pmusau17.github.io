@@ -52,7 +52,12 @@ Motivated by the ever-increasing complexity of software needed to control autono
 - Languages and Framework’s used: Robotic Operating System, Python, OpenCV, C++
 
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Day 1 of autonomous flight tests for the 2019 CPS Challenge at the TIMPA airfield in Tucson, AZ. <a href="https://twitter.com/cpsvo?ref_src=twsrc%5Etfw">@cpsvo</a> <a href="https://twitter.com/verivital?ref_src=twsrc%5Etfw">@verivital</a> <a href="https://t.co/uaFJAKN6CZ">pic.twitter.com/uaFJAKN6CZ</a></p>&mdash; Patrick Musau (@pmusau13) <a href="https://twitter.com/pmusau13/status/1128475378954035201?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p align="center">
+<img src="pages/images/timpa.jpeg" alt="Girl in a jacket" width="50%">
+</p>
+
+<!--<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Day 1 of autonomous flight tests for the 2019 CPS Challenge at the TIMPA airfield in Tucson, AZ. <a href="https://twitter.com/cpsvo?ref_src=twsrc%5Etfw">@cpsvo</a> <a href="https://twitter.com/verivital?ref_src=twsrc%5Etfw">@verivital</a> <a href="https://t.co/uaFJAKN6CZ">pic.twitter.com/uaFJAKN6CZ</a></p>&mdash; Patrick Musau (@pmusau13) <a href="https://twitter.com/pmusau13/status/1128475378954035201?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 ## [NNVMT](https://github.com/verivital/nnvmt)
 
