@@ -14,6 +14,7 @@ entries_layout: grid
 
 We evaluate the use of a real-time reachabilityalgorithm  in  order  to  reason  about  the  safety  of a 1/10  scaleopen source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
 
+- Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
 - Development timeframe: January 2021-March 2021.
 - Languages used: Python, C++, C
 <br/>
@@ -24,7 +25,7 @@ We evaluate the use of a real-time reachabilityalgorithm  in  order  to  reason 
 
 We compared two leading methods for training neural network controllers, Reinforcement Learning and Imitation Learning, for the autonomous racing task. We compare their viability by analyzing their performance and safety when deployed in novel scenarios outside their training via zero-shot policy transfer.
 
-
+- Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
 - Development timeframe: January 2021-March 2021.
 - Languages used: Python, C++, C
 <br/>
