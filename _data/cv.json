@@ -217,6 +217,18 @@
           "name": "Python (Proficient)"
       },
       {
+        "name": "Robot Operating System (ROS) (Proficient)"
+      },
+      {
+        "name": "C++ (Intermediate)"
+      },
+      {
+        "name": "C (Intermediate)"
+      },
+      {
+        "name": "Linux"
+      },
+      {
           "name": "SQL (Intermediate)"
       },
    
@@ -224,17 +236,13 @@
           "name": "OpenCV"
       },
       {
-          "name": "Artificial Neural Networks"
+          "name": "Keras"
       },
       {
           "name": "Docker"
-      },
-      {
-          "name": "Robot Operating System (ROS)"
-      },
-      {
-          "name": "Linux"
       }
+      
+      
   ],
   "languages": [
       {
