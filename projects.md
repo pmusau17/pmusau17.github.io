@@ -10,6 +10,27 @@ entries_layout: grid
 <!-- <img src="/pages/images/projects2.jpg " class="align-center" alt="Entrepneurship Conference" title="Entrepneurship Conference" width="400" height="267" /> -->
 
 
+## [Runtime Verification within Autonomous Racing](https://github.com/pmusau17/rtreach_f1tenth)
+
+We evaluate the use of a real-time reachabilityalgorithm  in  order  to  reason  about  the  safety  of a 1/10  scaleopen source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
+
+- Development timeframe: January 2021-March 2021.
+- Languages used: Python, C++, C
+
+<iframe width="640" height="359" src="https://www.youtube.com/embed/tTnGUFv3HmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Zero-Shot Policy Transfer in Autonomous Racing: ReinforcementLearning vs Imitation Learning](https://github.com/pmusau17/Platooning-F1Tenth/)
+
+We compared two leading methods for training neural network controllers, Reinforcement Learning and Imitation Learning, for the autonomous racing task. We compare their viability by analyzing their performance and safety when deployed in novel scenarios outside their training via zero-shot policy transfer.
+
+
+- Development timeframe: January 2021-March 2021.
+- Languages used: Python, C++, C
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ycyK3WHtRpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="640" height="359" src="https://www.youtube.com/embed/5d3nrhzPOUo" frameborder="0" allowfullscreen></iframe>
+
 ## [Runtime Assurance for Autonomous Platforms](https://github.com/pmusau17/rtreach_f1tenth)
 Motivated by the ever-increasing complexity of software needed to control autonomous systems, and the need for these systems to be certified for safety and correctness, we designed a safety monitor that relies on a [mixed face-lifting](http://www.taylortjohnson.com/research/bak2014rtss.pdf) reachability algorithm written in C. The reach-sets obtained using this method are represented as hyper-rectangles and we utilize these reachsets to check for collisons with obstacles in the vehicle's environment. Our implementation currently works in simulation but I am actively working on transfering these results onto the physical F1Tenth platform. 
 
