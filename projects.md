@@ -19,6 +19,7 @@ We evaluate the use of a real-time reachabilityalgorithm  in  order  to  reason 
 <br/>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tTnGUFv3HmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
+
 ## [Zero-Shot Policy Transfer in Autonomous Racing: ReinforcementLearning vs Imitation Learning](https://github.com/pmusau17/Platooning-F1Tenth/)
 
 We compared two leading methods for training neural network controllers, Reinforcement Learning and Imitation Learning, for the autonomous racing task. We compare their viability by analyzing their performance and safety when deployed in novel scenarios outside their training via zero-shot policy transfer.
