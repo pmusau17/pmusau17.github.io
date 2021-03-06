@@ -12,7 +12,7 @@ entries_layout: grid
 
 ## [Runtime Verification within Autonomous Racing](https://github.com/pmusau17/rtreach_f1tenth)
 
-We evaluate the use of a real-time reachabilityalgorithm  in  order  to  reason  about  the  safety  of a 1/10  scaleopen source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
+We evaluate the use of a real-time reachability algorithm  in  order  to  reason  about  the  safety  of a 1/10  scaleopen source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
 
 - Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
 - Development timeframe: January 2021-March 2021.
@@ -61,6 +61,8 @@ Motivated by the ever-increasing complexity of software needed to control autono
 </p>
 
 
+- Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
+
 ## [NSF CPS Challenge](https://github.com/verivital/VandyCPS)
 
 **Project Summary:** The goal of the [NSF CPS Challenge (2020)](https://cps-vo.org/group/CPSchallenge) is to use a quadrotor aircraft with downward facing camera, and other sensors, to so search for an ideal experiment site for deployment of a soil probe, and recovery of the probe back to base after a pre-specified dwell time.
@@ -76,6 +78,8 @@ Motivated by the ever-increasing complexity of software needed to control autono
 <p align="center">
 <iframe src="https://giphy.com/embed/G0c5gkAxfinxQ0Z4P0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/autonomous-G0c5gkAxfinxQ0Z4P0"></a></p>
 </p>
+
+- Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
 
 Still very much under development... 
 
