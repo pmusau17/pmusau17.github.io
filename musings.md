@@ -52,7 +52,7 @@ entries_layout: grid
 </div>
 
 <div class="align-left">
-<blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
