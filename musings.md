@@ -34,32 +34,25 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left" style="display: inline-block">
+<div class="align-right" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth</a></h4><p>Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin. 'Out of such chaos, of such contradiction We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-right">
+<div class="align-left">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2017/08/14/james-baldwin-nothing-personal-evil/">The Terror Within and the Evil Without: James Baldwin on Our Capacity for Transformation as Individuals and Nations</a></h4><p>"The self," the poet Robert Penn Warren observed in his immensely insightful meditation on the trouble with "finding yourself," "is a style of being, continually expanding in a vital process of definition, affirmation, revision, and growth, a process that is the image, we may say, of the life process of a healthy society itself."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
+<div class="align-right">
 <blockquote class="embedly-card"><h4><a href="https://johannesburgreviewofbooks.com/2020/01/16/conversation-issue-i-know-what-lurks-in-the-bushes-and-thats-how-i-write-the-stories-jason-reynolds-talks-to-tony-eprile-about-resistance-and-the-imagination/"> 'I know what lurks in the bushes. And that's how I write the stories'</a></h4><p>Tony Eprile is in conversation with Jason Reynolds, the New York Times bestselling author whose titles include All American Boys, the Track series, Long Way Down, For Everyone, Miles Morales: Spiderman and, most re</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-right">
+<div class="align-left">
 <blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/ideas/archive/2020/05/dont-worry-graduates-uncertainty-is-a-source-of-strength/612028/">Dear Graduates, Never Wait Your Turn</a></h4><p>Jemele Hill: The Kobe I knew became a champion for others Like many of you, I had never experienced-until now-any event that brought life to a complete standstill. We are walking around with heavy hearts and worn spirits. And more than ever, we seem obsessed with our failures and also frustrated by our perceived powerlessness.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
-
-
-
-
-
-
-
 
 
 <div class="align-right" style="display: inline-block">
