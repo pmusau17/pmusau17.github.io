@@ -53,11 +53,6 @@ entries_layout: grid
 
 
 <div class="align-left">
-<blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-</div>
-
-<div class="align-left">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2020/09/27/bertrand-russell-bbc-face-to-face/">The Love of Truth and the Truth of Love: Bertrand Russell on the Two Pillars of Human Flourishing</a></h4><p> Bertrand Russell (May 18, 1872–February 2, 1970), whom I continue to consider one of the most lucid and luminous minds our civilization has produced, and by far the philosopher whose ideas — ideas at the rare and necessary nexus of science and humanitarianism — I most admire in totality.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -70,6 +65,11 @@ We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
+
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
 
 <div class="align-left">
 <blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
