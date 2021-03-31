@@ -22,7 +22,7 @@ entries_layout: grid
 
 
 
-<div class="align-left">
+<div class="align-right">
 <blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2019/08/09/opinion/roxane-gay-toni-morrison.html">Opinion | The Legacy of Toni Morrison</a></h4><p>There is a blossoming of black women writers who are following in her footsteps and making their own impact. By Ms. Gay is a contributing Opinion writer. Toni Morrison was unparalleled. She will always be so. A novelist, essayist, woman and sage, she was a genius of uncommon grace.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -36,7 +36,7 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
+<div class="align-right">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2017/08/14/james-baldwin-nothing-personal-evil/">The Terror Within and the Evil Without: James Baldwin on Our Capacity for Transformation as Individuals and Nations</a></h4><p>"The self," the poet Robert Penn Warren observed in his immensely insightful meditation on the trouble with "finding yourself," "is a style of being, continually expanding in a vital process of definition, affirmation, revision, and growth, a process that is the image, we may say, of the life process of a healthy society itself."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -46,7 +46,7 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
+<div class="align-right">
 <blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/ideas/archive/2020/05/dont-worry-graduates-uncertainty-is-a-source-of-strength/612028/">Dear Graduates, Never Wait Your Turn</a></h4><p>Jemele Hill: The Kobe I knew became a champion for others Like many of you, I had never experienced-until now-any event that brought life to a complete standstill. We are walking around with heavy hearts and worn spirits. And more than ever, we seem obsessed with our failures and also frustrated by our perceived powerlessness.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -56,14 +56,14 @@ entries_layout: grid
 
 
 
-<div class="align-right" style="display: inline-block">
+<div class="align-left" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth: Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin</a></h4><p> 'Out of such chaos, of such contradiction
 We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
 
-<div class="align-left" style="display: inline-block">
+<div class="align-right" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -74,7 +74,7 @@ We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left" style="display: inline-block">
+<div class="align-right" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
