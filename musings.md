@@ -56,7 +56,7 @@ entries_layout: grid
 
 
 
-<div class="align-left" style="display: inline-block">
+<div class="align-right" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth: Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin</a></h4><p> 'Out of such chaos, of such contradiction
 We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
