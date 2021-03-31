@@ -28,11 +28,14 @@ entries_layout: grid
 </div>
 
 
-
-
 <div class="align-left">
 <blockquote class="embedly-card"><h4>
 <a href="https://www.gq.com/story/burna-boy-african-king-profile">Burna Boy Is Trying to Wake Up Africa</a></h4><p>We're backstage just moments before Burna Boy makes his Tonight Show debut, and Africa's biggest superstar is tucked away in his dressing room, surrounded by an entourage of more than a dozen people.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
+<div class="align-left" style="display: inline-block">
+<blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth</a></h4><p>Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin. 'Out of such chaos, of such contradiction We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
@@ -56,10 +59,7 @@ entries_layout: grid
 
 
 
-<div class="align-left" style="display: inline-block">
-<blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth</a></h4><p>Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin. 'Out of such chaos, of such contradiction We learn that we are neither devils nor divines.'</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-</div>
+
 
 
 <div class="align-right" style="display: inline-block">
