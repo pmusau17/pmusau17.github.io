@@ -51,10 +51,6 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
-<blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-</div>
 
 <div class="align-left">
 <blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
@@ -66,6 +62,19 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
+
+
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth: Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin</a></h4><p> 'Out of such chaos, of such contradiction
+We learn that we are neither devils nor divines.'</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
+
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
 
 
 <!--<div class="align-left">
