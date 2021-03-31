@@ -49,10 +49,6 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-left">
-<blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/ideas/archive/2020/05/dont-worry-graduates-uncertainty-is-a-source-of-strength/612028/">Dear Graduates, Never Wait Your Turn</a></h4><p>Jemele Hill: The Kobe I knew became a champion for others Like many of you, I had never experienced-until now-any event that brought life to a complete standstill. We are walking around with heavy hearts and worn spirits. And more than ever, we seem obsessed with our failures and also frustrated by our perceived powerlessness.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-</div>
 
 
 <div class="align-right" style="display: inline-block">
@@ -65,6 +61,12 @@ entries_layout: grid
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2020/09/27/bertrand-russell-bbc-face-to-face/">The Love of Truth and the Truth of Love: Bertrand Russell on the Two Pillars of Human Flourishing</a></h4><p> Bertrand Russell, whom I continue to consider one of the most lucid and luminous minds our civilization has produced, and by far the philosopher whose ideas ideas at the rare and necessary nexus of science and humanitarianism I most admire in totality.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
+
+<div class="align-left">
+<blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/ideas/archive/2020/05/dont-worry-graduates-uncertainty-is-a-source-of-strength/612028/">Dear Graduates, Never Wait Your Turn</a></h4><p>Jemele Hill: The Kobe I knew became a champion for others Like many of you, I had never experienced-until now-any event that brought life to a complete standstill. We are walking around with heavy hearts and worn spirits. And more than ever, we seem obsessed with our failures and also frustrated by our perceived powerlessness.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
 
 <div class="align-right" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.firstthings.com/article/2016/05/scientific-regress">Scientific Regress | William A. Wilson</a></h4><p>The problem with ­science is that so much of it simply isn't. Last summer, the Open Science Collaboration announced that it had tried to replicate one hundred published psychology experiments sampled from three of the most prestigious journals in the field.</p></blockquote>
