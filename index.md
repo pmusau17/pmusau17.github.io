@@ -1,5 +1,5 @@
 ---
 layout: home
-image: pages/images/home.jpg
+image: pages/images/resized.jpg
 title: Highlights
 ---
