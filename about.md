@@ -11,3 +11,7 @@ Hello! My name is Patrick Musau and I'm a fourth year Electrical Engineering Ph.
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/875500816&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/patrick-musau" title="Patrick Musau" target="_blank" style="color: #cccccc; text-decoration: none;">Patrick Musau</a> · <a href="https://soundcloud.com/patrick-musau/music-is-spiritual" title="Music is Spiritual" target="_blank" style="color: #cccccc; text-decoration: none;">Music is Spiritual</a></div>
+<br/>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fmusaup%2Fcheza-tu%2F" frameborder="0" ></iframe>
+<br/>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fmusaup%2Fmikey%2F" frameborder="0" ></iframe>
