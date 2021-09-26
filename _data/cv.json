@@ -65,7 +65,7 @@
       {
           "company": "Open Robotics",
           "summary": "",
-          "website": "http://molecularclusters.xyz/",
+          "website": "https://www.openrobotics.org/",
           "highlights": [
             "Assisted with the ongoing ROS2 Migration and maintenance of ROS Perception pipeline packages.",
             "Ported Alvar AR tag tracking package to ROS2",
