@@ -14,8 +14,9 @@ entries_layout: grid
 
 My research at The Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory (VeriVITAL) centers around problems related to the safety and reliability of autononomous systems that make use of Artificial Intelligence (AI) and Machine Learning (ML). I've been working within DARPA’s Assured Autonomy (AA) program towards developing mathematically verifiable approaches and tools that can be applied to different types and applications of data-driven ML algorithms in these systems to enhance their autonomy and assure they are achieving an acceptable levels of safety. To help ground the research objectives, I've been considering challenge problems in the autonomous vehicle space, specifically related to air, land, and underwater platforms. 
 
+
 <p align="center">
-<iframe src="/pages/images/research_slide.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cMDs3hQe0fhcKqwOyu"></a></p>
+<img src="/pages/images/research_slide.gif"  alt="Research Summary">
 </p>
 
 ## [Runtime Verification within Autonomous Racing](https://github.com/pmusau17/rtreach_f1tenth)
