@@ -27,7 +27,9 @@ We evaluate the use of a real-time reachability algorithm  in  order  to  reason
 - Development timeframe: January 2021-March 2021.
 - Languages used: Python, C++, C
 <br/>
+<p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tTnGUFv3HmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <br/>
 
 ## [Zero-Shot Policy Transfer in Autonomous Racing: ReinforcementLearning vs Imitation Learning](https://github.com/pmusau17/Platooning-F1Tenth/)
@@ -38,7 +40,9 @@ We compared two leading methods for training neural network controllers, Reinfor
 - Development timeframe: January 2021-March 2021.
 - Languages used: Python, C++, C
 <br/>
+<p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ycyK3WHtRpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <br/>
 
 ## [Runtime Assurance for Autonomous Platforms](https://github.com/pmusau17/rtreach_f1tenth)
