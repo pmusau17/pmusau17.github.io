@@ -42,7 +42,7 @@ We compared two leading methods for training neural network controllers, Reinfor
 <br/>
 
 <p align="center">
-<iframe width="1148" height="646" src="https://www.youtube.com/embed/0AvqcKi-H34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0AvqcKi-H34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br/>
 <p align="center">
