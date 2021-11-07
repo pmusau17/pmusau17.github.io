@@ -40,9 +40,17 @@ We compared two leading methods for training neural network controllers, Reinfor
 - Development timeframe: January 2021-March 2021.
 - Languages used: Python, C++, C
 <br/>
+
+<p align="center">
+<iframe width="1148" height="646" src="https://www.youtube.com/embed/0AvqcKi-H34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br/>
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ycyK3WHtRpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+
+
 <br/>
 
 ## [Runtime Assurance for Autonomous Platforms](https://github.com/pmusau17/rtreach_f1tenth)
