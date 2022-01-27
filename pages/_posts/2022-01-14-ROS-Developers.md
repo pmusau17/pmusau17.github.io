@@ -1,11 +1,11 @@
 ---
-title: "ROS Developer's Podcast: Towards Assured Robot Autonomy with ROS, with Patrick Musau"
+title: "Check out our ROS World 2021 Talk: Towards Assured Autonomy with ROS"
 categories:
   - Research
 tags:
   - Research
-last_modified_at: 2022-01-27
+last_modified_at: 2021-12-03
 ---
 
-<iframe width="100%" height="490px" src="https://www.youtube.com/embed/p454D69RJM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/649656341?h=59f6c774c1" width="100%" height="490px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/649656341">Towards Assured Autonomy with ROS</a> from <a href="https://vimeo.com/osrfoundation">Open Robotics</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
