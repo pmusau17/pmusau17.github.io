@@ -19,9 +19,22 @@ My research at The Verification and Validation for Intelligent and Trustworthy A
 <img src="/pages/images/research_slide.gif"  alt="Research Summary">
 </p>
 
+## [Real-Time Reachability for the Safety Assurance of Autonomous Vehicles](https://zenodo.org/record/6418817)
+
+We evaluated the use of a real-time reachability algorithm for the implementation a simplex-based runtime assurance architecture for the safety assurance of a 1/10 scale open source autonomous vehicle platform known as F1/10. The reachability algorithm (a) provides provable guarantees of safety, and (b) is used to detect potentially unsafe scenarios. In our approach, the need to analyze the underlying controller is  abstracted away, instead focusing on the effects of the controller's decisions on the system's future states. We demonstrate the efficacy of our architecture through a vast set of experiments conducted both in simulation and on an embedded hardware platform.
+
+- Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/), [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/), [Preston Robinette](https://www.linkedin.com/in/prestonrobinette/)
+- Development timeframe: January 2021-March 2021.
+- Languages used: Python, C++, C
+<br/>
+<p align="center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/neXR_4o3uX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br/>
+
 ## [Runtime Verification within Autonomous Racing](https://github.com/pmusau17/rtreach_f1tenth)
 
-We evaluate the use of a real-time reachability algorithm  in  order  to  reason  about  the  safety  of a 1/10  scaleopen source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
+We evaluate the use of a real-time reachability algorithm  in  order  to  reason  about  the  safety  of a 1/10  scale open source autonomous vehicle platform known as F1/10. Our regime  allows us  to (a) provide provable guarantees of safety and (b) detect potentially unsafe  scenarios in the context of autonomous racing.
 
 - Teammates: [Diego Manzanas Lopez](https://mldiego.github.io/) and [Nathaniel Hamilton](https://www.linkedin.com/in/nathaniel-hamilton-b01942112/)
 - Development timeframe: January 2021-March 2021.
