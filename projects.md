@@ -28,7 +28,7 @@ We evaluated the use of a real-time reachability algorithm for the implementatio
 - Languages used: Python, C++, C
 <br/>
 <p align="center">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/neXR_4o3uX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3jPKucx4AF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br/>
 
