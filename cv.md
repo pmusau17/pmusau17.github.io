@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "pages/images/Patrick_Musau_CV.pdf"
+    url: "pages/images/MusauCV2022.pdf"
 ---
