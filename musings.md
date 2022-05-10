@@ -22,7 +22,7 @@ entries_layout: grid
 
 
 
-<div class="align-right">
+<div class="aligh-left">
 <blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2019/08/09/opinion/roxane-gay-toni-morrison.html">Opinion | The Legacy of Toni Morrison</a></h4><p>There is a blossoming of black women writers who are following in her footsteps and making their own impact. By Ms. Gay is a contributing Opinion writer. Toni Morrison was unparalleled. She will always be so. A novelist, essayist, woman and sage, she was a genius of uncommon grace.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -34,7 +34,7 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-right" style="display: inline-block">
+<div class="aligh-left" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.brainpickings.org/2018/05/09/a-brave-and-startling-truth-maya-angelou/">A Brave and Startling Truth</a></h4><p>Maya Angelou’s Stunning Humanist Poem That Flew to Space, Inspired by Carl Sagan and Read by Astrophysicist Janna Levin. 'Out of such chaos, of such contradiction We learn that we are neither devils nor divines.'</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
@@ -44,14 +44,14 @@ entries_layout: grid
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
-<div class="align-right">
+<div class="aligh-left">
 <blockquote class="embedly-card"><h4><a href="https://johannesburgreviewofbooks.com/2020/01/16/conversation-issue-i-know-what-lurks-in-the-bushes-and-thats-how-i-write-the-stories-jason-reynolds-talks-to-tony-eprile-about-resistance-and-the-imagination/"> 'I know what lurks in the bushes. And that's how I write the stories'</a></h4><p>Tony Eprile is in conversation with Jason Reynolds, the New York Times bestselling author whose titles include All American Boys, the Track series, Long Way Down, For Everyone, Miles Morales: Spiderman and, most re</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 
 
 
-<div class="align-right" style="display: inline-block">
+<div class="align-left" style="display: inline-block">
 <blockquote class="embedly-card"><h4><a href="https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html/">Happiness Won’t Save You</a></h4><p>Philip Brickman was an expert in the psychology of happiness, but he couldn’t make his own pain go away.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
