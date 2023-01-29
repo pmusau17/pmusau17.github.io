@@ -6,7 +6,11 @@ entries_layout: grid
 ---
 
 
-Hello! My name is Patrick Musau and I'm a fourth year Electrical Engineering Ph.D. Student at the Institute of Software Integrated Systems at Vanderbilt University. My research is focused on problems related to ensuring that autonomous cyber-physical systems are safe and function as intended.  Specifically its applying these techniques to a 1/10 scale autonomous remote controlled car as part of the [F1/10](http://f1tenth.org/) Autonomous racing competition, as well as the NSF Student [CPS Challenge](https://cps-vo.org/group/CPSchallenge). I'm also actively involved in Vanderbilt University's Entrepneurial ecosystem in an effort to translate promising ideas from the laboratory to the marketplace. Outside of work I love to read, be outside, and get lost in the [vibes](https://soundcloud.com/patrick-musau). 
+Hello! My name is Patrick Musau and I'm a Software Engineer at Google. I work on the Machine Learning Architecture and Performance Team which focuses on improving the performance and affordability of current and future AI applicaitons. It's a nice mix of performance modeling, workload characterization, and hardware/software co-design. 
+
+Before google I earned my Ph.D.at the Institute of Software Integrated Systems at Vanderbilt University. My research was focused on problems related to ensuring that autonomous cyber-physical systems are safe and function as intended.  Specifically its applying these techniques to a 1/10 scale autonomous remote controlled car as part of the [F1/10](http://f1tenth.org/) Autonomous racing competition, as well as the NSF Student [CPS Challenge](https://cps-vo.org/group/CPSchallenge). I'm also actively involved in Vanderbilt University's Entrepneurial ecosystem in an effort to translate promising ideas from the laboratory to the marketplace. 
+
+Outside of work I love to read, be outside, and get lost in the [vibes](https://soundcloud.com/patrick-musau). 
 <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fpatrick-musau&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
 
 
